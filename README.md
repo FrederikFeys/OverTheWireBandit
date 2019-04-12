@@ -1,5 +1,8 @@
 # OverTheWireBandit
 
+Host: bandit.labs.overthewire.org
+Port: 2220
+
 ## Bandit Level 0
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
